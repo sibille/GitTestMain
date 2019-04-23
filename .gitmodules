@@ -1,0 +1,3 @@
+[submodule "GitTest"]
+	path = GitTest
+	url = https://github.com/sibille/GitTest.git
